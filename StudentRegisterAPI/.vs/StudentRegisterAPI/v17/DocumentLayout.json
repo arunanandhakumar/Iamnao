@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GIT\\POC\\Student\\StudentRegisterAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16023BB4-61AF-4D2B-B736-75EFC7A1A515}|StudentRegisterAPI\\StudentRegisterAPI.csproj|d:\\git\\poc\\student\\studentregisterapi\\studentregisterapi\\studentregisterapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{16023BB4-61AF-4D2B-B736-75EFC7A1A515}|StudentRegisterAPI\\StudentRegisterAPI.csproj|solutionrelative:studentregisterapi\\studentregisterapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16023BB4-61AF-4D2B-B736-75EFC7A1A515}|StudentRegisterAPI\\StudentRegisterAPI.csproj|d:\\git\\poc\\student\\studentregisterapi\\studentregisterapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16023BB4-61AF-4D2B-B736-75EFC7A1A515}|StudentRegisterAPI\\StudentRegisterAPI.csproj|solutionrelative:studentregisterapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16023BB4-61AF-4D2B-B736-75EFC7A1A515}|StudentRegisterAPI\\StudentRegisterAPI.csproj|d:\\git\\poc\\student\\studentregisterapi\\studentregisterapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16023BB4-61AF-4D2B-B736-75EFC7A1A515}|StudentRegisterAPI\\StudentRegisterAPI.csproj|solutionrelative:studentregisterapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16023BB4-61AF-4D2B-B736-75EFC7A1A515}|StudentRegisterAPI\\StudentRegisterAPI.csproj|d:\\git\\poc\\student\\studentregisterapi\\studentregisterapi\\data\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16023BB4-61AF-4D2B-B736-75EFC7A1A515}|StudentRegisterAPI\\StudentRegisterAPI.csproj|solutionrelative:studentregisterapi\\data\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16023BB4-61AF-4D2B-B736-75EFC7A1A515}|StudentRegisterAPI\\StudentRegisterAPI.csproj|d:\\git\\poc\\student\\studentregisterapi\\studentregisterapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16023BB4-61AF-4D2B-B736-75EFC7A1A515}|StudentRegisterAPI\\StudentRegisterAPI.csproj|solutionrelative:studentregisterapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16023BB4-61AF-4D2B-B736-75EFC7A1A515}|StudentRegisterAPI\\StudentRegisterAPI.csproj|d:\\git\\poc\\student\\studentregisterapi\\studentregisterapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16023BB4-61AF-4D2B-B736-75EFC7A1A515}|StudentRegisterAPI\\StudentRegisterAPI.csproj|solutionrelative:studentregisterapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRegisterAPI.http",
+              "DocumentMoniker": "D:\\GIT\\POC\\Student\\StudentRegisterAPI\\StudentRegisterAPI\\StudentRegisterAPI.http",
+              "RelativeDocumentMoniker": "StudentRegisterAPI\\StudentRegisterAPI.http",
+              "ToolTip": "D:\\GIT\\POC\\Student\\StudentRegisterAPI\\StudentRegisterAPI\\StudentRegisterAPI.http",
+              "RelativeToolTip": "StudentRegisterAPI\\StudentRegisterAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-15T08:27:20.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GIT\\POC\\Student\\StudentRegisterAPI\\StudentRegisterAPI\\Program.cs",
+              "RelativeDocumentMoniker": "StudentRegisterAPI\\Program.cs",
+              "ToolTip": "D:\\GIT\\POC\\Student\\StudentRegisterAPI\\StudentRegisterAPI\\Program.cs",
+              "RelativeToolTip": "StudentRegisterAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T08:24:58.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "D:\\GIT\\POC\\Student\\StudentRegisterAPI\\StudentRegisterAPI\\Data\\StudentContext.cs",
+              "RelativeDocumentMoniker": "StudentRegisterAPI\\Data\\StudentContext.cs",
+              "ToolTip": "D:\\GIT\\POC\\Student\\StudentRegisterAPI\\StudentRegisterAPI\\Data\\StudentContext.cs",
+              "RelativeToolTip": "StudentRegisterAPI\\Data\\StudentContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T08:16:39.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\GIT\\POC\\Student\\StudentRegisterAPI\\StudentRegisterAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentRegisterAPI\\Models\\Student.cs",
+              "ToolTip": "D:\\GIT\\POC\\Student\\StudentRegisterAPI\\StudentRegisterAPI\\Models\\Student.cs",
+              "RelativeToolTip": "StudentRegisterAPI\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T08:15:33.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\GIT\\POC\\Student\\StudentRegisterAPI\\StudentRegisterAPI\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentRegisterAPI\\Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\GIT\\POC\\Student\\StudentRegisterAPI\\StudentRegisterAPI\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentRegisterAPI\\Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T08:14:15.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GIT\\POC\\Student\\StudentRegisterAPI\\StudentRegisterAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentRegisterAPI\\appsettings.json",
+              "ToolTip": "D:\\GIT\\POC\\Student\\StudentRegisterAPI\\StudentRegisterAPI\\appsettings.json",
+              "RelativeToolTip": "StudentRegisterAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-15T08:13:14.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
