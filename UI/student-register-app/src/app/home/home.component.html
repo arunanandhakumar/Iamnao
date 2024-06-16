@@ -1,0 +1,19 @@
+<!-- src/app/home/home.component.html -->
+<div class="home-container">
+  <mat-card>
+    <mat-card-header>
+      <mat-card-title>Welcome to the Student Portal</mat-card-title>
+    </mat-card-header>
+    <mat-card-content>
+      <p>We are excited to have you here. Explore the portal to manage your student profile, view your courses, and much more!</p>
+    </mat-card-content>
+  </mat-card>
+
+  <div class="carousel-container">
+    <ngb-carousel *ngIf="images.length">
+      <ng-template ngbSlide *ngFor="let image of images; let i = index" [id]="'slide-' + i">
+        <img [src]="image" alt="Student Image" class="d-block w-100">
+      </ng-template>
+    </ngb-carousel>
+  </div>
+</div>

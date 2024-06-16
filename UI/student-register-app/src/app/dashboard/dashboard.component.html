@@ -1,0 +1,18 @@
+<!-- src/app/dashboard/dashboard.component.html -->
+<div class="dashboard-container">
+  <div class="dashboard-card" *ngFor="let student of students; let i = index">
+    <mat-card>
+      <mat-card-header>
+        <div mat-card-avatar [style.background-image]="'url(' + images[i] + ')'"></div>
+        <mat-card-title>{{ student.name }}</mat-card-title>
+        <mat-card-subtitle>{{ student.email }}</mat-card-subtitle>
+      </mat-card-header>
+      <img mat-card-image [src]="images[i]" alt="{{ student.name }}">
+      <mat-card-content>
+        <p>
+          This is a description for {{ student.name }}. You can add more information here.
+        </p>
+      </mat-card-content>
+    </mat-card>
+  </div>
+</div>

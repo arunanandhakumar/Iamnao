@@ -1,0 +1,17 @@
+/* src/app/home/home.component.scss */
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px;
+  background-color: #f0f0f0;
+}
+
+mat-card {
+  width: 80%;
+  margin-bottom: 32px;
+}
+
+.carousel-container {
+  width: 80%;
+}
